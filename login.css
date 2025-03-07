@@ -1,0 +1,50 @@
+.background{
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    background-image: url( "proqr.jpg"); 
+    background-size: contain; 
+    background-position: center; 
+    filter: blur(5px); 
+    z-index: -1; 
+}
+h1{
+    text-align: center;
+    color:skyblue;
+    font-size: 90px;
+}
+.boxs{
+    font-weight:bolder;
+    position: relative ;
+    background-color:transparent;
+    width: 550px;
+    height: 300px;
+    font-size: 50px;
+     text-align: center; 
+      top: -30px;
+      left: 400px;
+      text-decoration: double;
+      color:lavender;
+      border-color: lavender;
+      border-style:double;
+}
+#ii:hover{
+    font-size: large;
+    background-color:lightskyblue;
+    }
+ #btn:hover{
+font-size: large;
+color: crimson;
+background-color: skyblue;
+    }
+#ii{
+    font-size: small;
+}
+#ver{
+    height:20px;
+    width: 20px;
+}
+.checkbox-label {
+    font-size: 20px; /* Adjust the font size as needed */
+    color:lavender;
+  }

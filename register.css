@@ -1,0 +1,52 @@
+.frm{
+    font-weight:bolder;
+    position: relative ;
+    /* background-color:transparent; */
+    width: 570px;
+    font-size: 40px;
+     text-align: center; 
+      top: 5px;
+      left: 400px;
+      text-decoration: double;
+      color:lavender;
+      border-color: lavender;
+      border-style: double;
+}
+#heading1{
+    margin-top: 2px;
+        font-size: 100px;
+    font-style: italic;
+    text-align: center;
+    position: relative ;
+    color:skyblue;
+}
+#ii{
+    font-size: small;
+    color: crimson;
+}
+#ii:hover{
+font-size: large;
+background-color:lightskyblue;
+}
+#btn:hover{
+    font-size: large;
+    color:crimson;
+}
+.background{
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    background-image: url( "proqr.jpg"); 
+    background-size: contain; 
+    background-position: center; 
+    filter: blur(5px); 
+    z-index: -1; 
+}
+#ver{
+    height:20px;
+    width: 20px;
+}
+.checkbox-label {
+    font-size: 20px; /* Adjust the font size as needed */
+    color:lavender;
+  }
