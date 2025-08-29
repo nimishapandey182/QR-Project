@@ -58,15 +58,12 @@ QR-Project-main/
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of QR generation & scanning here for a better GitHub presentation.)*
 
----
+**LOGIN:-**
+<img width="1366" height="768" alt="9d2df96b-c34b-4fac-b2a1-a3453c4a0056" src="https://github.com/user-attachments/assets/45fa75b2-78a2-4ced-90eb-fad15eb2dcd6" />
+**GENERATOR:-**
+![7b07239e-8615-47a5-9be0-a128ba025063](https://github.com/user-attachments/assets/dc3ad82e-c461-4413-ac78-86f2dd6b599e)
+**SCANNER:-**
+![e7c64e10-47c4-48db-bcf7-7b4b97b5a6b2](https://github.com/user-attachments/assets/fc6ce83a-01c9-4427-96a1-39f87624b45d)
 
-## 🤝 Contributing
-Contributions are welcome!  
-Feel free to fork this repository, open issues, or submit pull requests.
 
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
